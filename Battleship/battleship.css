@@ -1,0 +1,29 @@
+button
+{
+ width: 150px;
+ height: 150px;   
+ padding: 20px;
+ box-sizing: border-box;
+ border: 2px solid #000;
+ justify-content: center;
+
+}
+body
+{
+    background-image: url("sharks.jpg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+#restartButton 
+{
+    width: 100px;            
+    height: 75px;            
+    font-size: 20px;         
+    background-color: lightgreen; 
+    border: none;           
+    border-radius: 5px;     
+    color: white;          
+    cursor: pointer;        
+}
